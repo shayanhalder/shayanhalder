@@ -2,7 +2,7 @@
 
 #### I'm a Software Engineer studying Computer Science at UC Irvine. I'm interested in backend development, databases, distributed systems, AI infrastructure, and reliability engineering.
 
-#### Currently interning at Meta as a Production Engineer learning how to build scalable and reliable infrastructure.  
+#### Currently interning at Meta as a [Production Engineer](https://engineering.fb.com/category/production-engineering/) learning how to build scalable and reliable infrastructure.  
 
 #### Fluent in: Python, TypeScript/JavaScript, React, Node.js, SQL, MongoDB, Linux, and Bash.
 
