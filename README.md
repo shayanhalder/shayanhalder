@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey, I'm Shayan! 👋
+
+#### I'm a Software Engineer studying Computer Science at UC Irvine. I'm interested in backend development, databases, distributed systems, AI infrastructure, and reliability engineering.
+
+#### Currently interning at Meta as a Production Engineer learning how to build scalable and reliable infrastructure.  
+
+#### Fluent in: Python, TypeScript/JavaScript, React, Node.js, SQL, MongoDB, Linux, and Bash.
+
+[Portfolio Website](https://shayanhalder.me/) | [LinkedIn](https://www.linkedin.com/in/shalder27) 
 
 <!--
 **shayanhalder/shayanhalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
