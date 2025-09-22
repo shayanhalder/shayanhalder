@@ -1,6 +1,6 @@
 ## Hey, I'm Shayan! 👋
 
-#### I'm a Software Engineer studying Computer Science at UC Irvine. I'm interested in backend development, databases, distributed systems, AI infrastructure, and reliability engineering. Incoming Production Engineer at Meta (Summer 2026).  
+#### I'm a Software Engineer studying Computer Science at UC Irvine. I'm interested in backend development, databases, distributed systems, AI infrastructure, and reliability engineering.
 
 #### Previously interned at Meta as a [Production Engineer](https://engineering.fb.com/category/production-engineering/) learning how to build reliable and scalable infrastructure.  
 
